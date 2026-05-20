@@ -1,8 +1,8 @@
 version: 1.1.0
 files:
-  - url: SimbaHolidays-ExpenseManager-1.1.0-win-portable.zip
+  - url: https://github.com/Tjimmer/expense-manager-releases/raw/main/SimbaHolidays-ExpenseManager-1.1.0-win-portable.zip
     sha512: BVYot5oIg5Ow/tYhrKA/sB1oAEZsiAlfFddhWnU7/iES0iXLVEaDQdQm63rkSfK+lSZ9d7A4Y0G50NANiTnLAg==
     size: 186476245
-path: SimbaHolidays-ExpenseManager-1.1.0-win-portable.zip
+path: https://github.com/Tjimmer/expense-manager-releases/raw/main/SimbaHolidays-ExpenseManager-1.1.0-win-portable.zip
 sha512: BVYot5oIg5Ow/tYhrKA/sB1oAEZsiAlfFddhWnU7/iES0iXLVEaDQdQm63rkSfK+lSZ9d7A4Y0G50NANiTnLAg==
-releaseDate: '2026-05-20T17:59:47.000Z'
+releaseDate: '2026-05-20T18:09:47.000Z'
