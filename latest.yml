@@ -1,8 +1,8 @@
 version: 1.2.0
 files:
   - url: SimbaHolidays-ExpenseManager-1.1.0-win-portable.zip
-    sha512: JUzM/oYZa4lAWj+PmcH7brXVYQW7YVeFSZbDJa/uthJ+TuSqPZFQZZqB5AnnMTRfBpteXmhh2uugFQdFvzef5g==
-    size: 191980032
+    sha512: lRJlA6i1AkAtMTL74AHaF/dIDiRupXXGuf6+BUuqslJmyVGTqmqRPD/l+VPJtRGfbDo3Z7BHOxhQxAvIuDWMGw==
+    size: 191976313
 path: SimbaHolidays-ExpenseManager-1.1.0-win-portable.zip
-sha512: JUzM/oYZa4lAWj+PmcH7brXVYQW7YVeFSZbDJa/uthJ+TuSqPZFQZZqB5AnnMTRfBpteXmhh2uugFQdFvzef5g==
-releaseDate: '2026-05-20T22:55:25.000Z'
+sha512: lRJlA6i1AkAtMTL74AHaF/dIDiRupXXGuf6+BUuqslJmyVGTqmqRPD/l+VPJtRGfbDo3Z7BHOxhQxAvIuDWMGw==
+releaseDate: '2026-05-20T23:09:36.000Z'
